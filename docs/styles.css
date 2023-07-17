@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* 导航栏样式 */
+.navbar {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  /* 链接样式 */
+  .navbar a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* 激活链接样式 */
+  .navbar a.active {
+    font-weight: bold;
+  }

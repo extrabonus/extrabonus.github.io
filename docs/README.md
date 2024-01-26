@@ -9,6 +9,7 @@
     * [变量地址](/tech/PLC/varAddress.md)
     * [梯形图示例](/tech/PLC/LDexample1.md)
     * [POU](/tech/PLC/POU.md)
+    * [硬件接口](/tech/PLC/Interface.md)
 * 备用库
     * [markdown语法](/tech/library/markdown.md)
     * [emoji](/tech/library/emoji.md)
